@@ -1,0 +1,11 @@
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Debug\netcoreapp2.2\CorEscuela.deps.json
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Debug\netcoreapp2.2\CorEscuela.runtimeconfig.json
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Debug\netcoreapp2.2\CorEscuela.runtimeconfig.dev.json
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Debug\netcoreapp2.2\CorEscuela.dll
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Debug\netcoreapp2.2\CorEscuela.pdb
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\obj\Debug\netcoreapp2.2\CorEscuela.csprojAssemblyReference.cache
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\obj\Debug\netcoreapp2.2\CorEscuela.csproj.CoreCompileInputs.cache
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\obj\Debug\netcoreapp2.2\CorEscuela.AssemblyInfoInputs.cache
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\obj\Debug\netcoreapp2.2\CorEscuela.AssemblyInfo.cs
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\obj\Debug\netcoreapp2.2\CorEscuela.dll
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\obj\Debug\netcoreapp2.2\CorEscuela.pdb

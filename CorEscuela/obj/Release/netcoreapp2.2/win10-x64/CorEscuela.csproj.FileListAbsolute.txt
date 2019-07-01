@@ -1,0 +1,14 @@
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Release\netcoreapp2.2\win10-x64\CorEscuela.exe
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Release\netcoreapp2.2\win10-x64\CorEscuela.deps.json
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Release\netcoreapp2.2\win10-x64\CorEscuela.runtimeconfig.json
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Release\netcoreapp2.2\win10-x64\CorEscuela.runtimeconfig.dev.json
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Release\netcoreapp2.2\win10-x64\CorEscuela.dll
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\bin\Release\netcoreapp2.2\win10-x64\CorEscuela.pdb
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\obj\Release\netcoreapp2.2\win10-x64\CorEscuela.csprojAssemblyReference.cache
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\obj\Release\netcoreapp2.2\win10-x64\CorEscuela.csproj.CoreCompileInputs.cache
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\obj\Release\netcoreapp2.2\win10-x64\CorEscuela.AssemblyInfoInputs.cache
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\obj\Release\netcoreapp2.2\win10-x64\CorEscuela.AssemblyInfo.cs
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\obj\Release\netcoreapp2.2\win10-x64\CorEscuela.dll
+C:\Users\Enapsys\Documents\GitHub\CorEscuela\CorEscuela\obj\Release\netcoreapp2.2\win10-x64\CorEscuela.pdb
