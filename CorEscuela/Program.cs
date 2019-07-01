@@ -1,18 +1,8 @@
 ﻿using System;
+using CorEscuela.Entidades;
 
 namespace CorEscuela
 {
-    public class Escuela
-    {
-        public string nombre;
-        public string direccion;
-        public int anoFundacion;
-        public void Timbrar()
-        {
-            //Todo
-            Console.Beep(1000, 5000);
-        }
-    }
     class Program
     {
         static void Main(string[] args)
@@ -20,11 +10,11 @@ namespace CorEscuela
             Console.WriteLine("Iniciando CorEscuela");
             Escuela platzi = new Escuela
             {
-                nombre = "Platzi Academy",
-                direccion = "Internet",
-                anoFundacion = 2008
+                Nombre = "Platzi Academy",
+                pais = "Internet",
+                anoCreacion = 2008
             };
-            Console.WriteLine($"La escuela se llama {platzi.nombre}, y se encuentra en {platzi.direccion}, y se fundó en el año {platzi.anoFundacion}.");
+            Console.WriteLine($"La escuela se llama {platzi.Nombre}, y se encuentra en {platzi.pais}, y se fundó en el año {platzi.anoCreacion}.");
             Console.WriteLine($"Hagamosla timbrar...");
             platzi.Timbrar();
         }
