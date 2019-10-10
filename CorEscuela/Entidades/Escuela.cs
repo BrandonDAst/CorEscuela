@@ -1,34 +1,31 @@
-﻿namespace CorEscuela.Entidades
+﻿using System.Collections.Generic;
+
+namespace CorEscuela.Entidades
 {
     public class Escuela
     {
         private string _nombre;
 
-        public string nombre
+        public string Nombre
         {
             get { return _nombre; }
             set { _nombre = value; }
         }
 
-        public byte añoCreacion { get; set; }
-        public string pais { get; set; }
-        public string cuidad { get; set; }
-        public TiposEscuela tipo;
+        public int Creacion { get; set; }
+        public string Pais { get; set; }
+        public string Cuidad { get; set; }
+        public TiposEscuela Tipo;
+        public List<Curso> Cursos { get; set; }
 
         
-        public Escuela(string nombre, TiposEscuela tipo) => (this.nombre) = (nombre);//Tuplas
-        public Escuela(string nombre, byte añoCreacion, string pais, string cuidad, TiposEscuela tipo)
-        {
-            this.nombre = nombre;
-            this.añoCreacion = añoCreacion;
-            this.pais = pais;
-            this.cuidad = cuidad;
-            this.tipo = tipo;
-        }
+        public Escuela(string nombre, TiposEscuela tipo) => (Nombre, Tipo) = (nombre, tipo);//Tuplas
+        public Escuela(string nombre, int creacion, string pais, string cuidad, TiposEscuela tipo) => (Nombre, Creacion, Pais, Cuidad, Tipo) = (nombre, creacion, pais, cuidad, tipo);
+       
 
         public override string ToString()
         {
-            return $"Nombre:{nombre} \nTipo:{tipo}";
+            return $"Nombre:{Nombre} \nTipo:{Tipo}";
         }
     }
 }
