@@ -25,7 +25,7 @@ namespace CorEscuela.Entidades
 
         public override string ToString()
         {
-            return $"Curso: {nombre}. Grado: {grado}";
+            return $"Curso: {nombre}. Grado: {grado} caaaaambiooooossss";
         }
     }
 }
